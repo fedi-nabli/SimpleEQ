@@ -65,10 +65,10 @@
           uiopen_Normal="0">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="/Users/fedinabli/Library/Audio/Plug-Ins/VST3/SimpleEQ.vst3"
-            uniqueId="f7aee929" isInstrument="0" fileTime="183c3017f2e" infoUpdateTime="183c308c84e"
+            uniqueId="f7aee929" isInstrument="0" fileTime="183c3017f2e" infoUpdateTime="183c8d9acc6"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="acf79d3e"/>
-    <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <STATE>623.VMjLgXl....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9LCNy3BTEwlXmAiUYoWUrIVdA4hKAIlKTETRUAUSAAkKBolQY4BQlMTQlQkVscVLPASTGgjQIcUV2EjYic1cVM1ZAAkKIAkKt3hKt3hKjUVdtDjKTETRUAUSAAkKBolQY4BQ1MTQlQkVscVLPASTGgzT2ESX1UkQtDSQFEFLUYjKAolKA4hKt3hKt3hKt3hKt.UQpQUPvPjKAgDTZoVPP4RST4xT0MlLPASTGgjQIcUV2EjYic1cVM1ZAAkKIAkKt3hKt3hKt3RStDjKTETRUAUSAAkKBolQY4BQlMTQ1oWXxzDUioWP3Qkb3XjXqEjYic1cVM1ZAAkKIAkKt3hKt3hKt3hKt3hKTETRUAUSAAkKBolQY4BQ1ITQtTUVmMmQHYTRWk0cAY1XmcmUisVPP4RRP4hKt3hKt3hKN0lKA4BUAkTUP0TPP4hPpYTVtPjcBUjKUk0YyYDRGUjUZQWPlM1Y2Y0XqEDTtjDTt3hKt3hKt3hYI4RPtPUPIUETMEDTtHjZFkkKDY1PE4RUYc1bFgTTUcEVxslQiQSPlM1Y2Y0XqEDTtjDTt3hKt3BT4wTd2rhKt3hKt3hKt3hKt3haTU0PUQDU3sFaicVTWkEQEYzXmEDTtDDRTQlcEEiX4EDTtDDSt3xXt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQ77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
     <LAYOUT>
       <INPUTS>
         <BUS index="0" layout="L R"/>
@@ -82,10 +82,10 @@
           uiLastY_Normal="158" uiopen_Normal="0">
     <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
             manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
-            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="183c308c84e"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="183c8d9acc7"
             numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="6163676e"/>
-    <STATE>545.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1WPLyKUMWYxM2KlUFYo4VXhwVZuPzaiUWak4Fcy8xSvUFcnARKfHTcxQVYtARP0QVZu4RavMSnRP8DTTgEWfQFZ3kTkcVZu4FQuU1bL81avokTkcVZu4FQgQWXeAADIM2TkwVYiQWYjIUYmk1atokTkcVZu4lSg0VYH7DDvA..........TcIdsE.....RWhWaA.....hHAL......f..........XWhWaA....fFl30V.....A................................................................ZoMA.....PBZ4TY2AhTkcVZu4VBRDlYvwFD.HQX0claQCBDVYTZrUFHwfUUtQWZzwVYjA.B.jA.l.vJ.jD.QAPV.3E.vAPc.nG.6APe.PH.MBPk.PJ.ZC.2.TN.zCv+AHQ.cDfGADY.RFPmA3Y.iFPoAnZ.sF.s........BD..........h...................AzK</STATE>
+    <STATE>774.hAGaoMGcv.C1AHv.DTfAGfPBJr.IkXxIpvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPhxfFR2fCO.AVFkFak4TXsU1URU1Yo8lay8EDy7RUyUlby8hYkQVZtElXrk1KD81X00VYtQ2bu7DbkQGZfzBHBUmbjUlafDTcjk1atzFbyDZDTKwDTTgEWfQFdIUYmk1atQzakMGSu8FbZIUYmk1atQTXzE1WP.QRyMUYrU1XzUFYRU1Yo8laZIUYmk1at4TXsUFBOAAb...........UWhWaA....fzk30V.....fHR.C......H..........1k30V.....ngIdsE....P................................................................fVZS......jfVNU1cfHUYmk1atMcCNrAGcfgWIM2TkwVYiQWYjYTZrU1WPXyKUMWYxM2KlUFYo4VXhwVZuPzaiUWak4Fcy8hTKY0PfzBHTI2avk1XgwFHTgVctQVYx4RavMSndPsDSPQEV.BFhfvSP.G..............HL.....................fMtQAA..........poy2gx9+C6HvNsLGL1n50D.....dVuEz.......................................3CBL...........HsjA..fOGPInkSkcGHRU1Yo8laIHQXlAGaP.fDgU2YtIMJo7.GVYTZrUFHwXkQowVYfHCVU4FcoQGakQF.H.PF.XB.q.PR.DE.YAfW..G.0Afd.rG.9Avf.vH.TBfx.vL.UC.4.7d.BDPCA3P.AFffAzX.TFvnAvc.dGv4Aft.aI.WBbl.nIPaB7l.zIPdB.n.GB.......HP..........rB..................H.j</STATE>
     <LAYOUT>
       <INPUTS/>
       <OUTPUTS>
