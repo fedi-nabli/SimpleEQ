@@ -363,6 +363,8 @@ void SimpleEQAudioProcessorEditor::resized()
     
     responseCurveComponent.setBounds(responseArea);
     
+    bounds.removeFromTop(5);
+    
     auto lowCutArea = bounds.removeFromLeft(bounds.getWidth() * 0.33);
     auto highCutArea = bounds.removeFromRight(bounds.getWidth() * 0.5);
     
