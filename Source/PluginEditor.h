@@ -297,6 +297,14 @@ private:
                 lowCutSlopeSliderAttachment,
                 highCutSlopeSliderAttachment;
     
+    juce::ToggleButton lowcutBypassButton, peakBypassButton, highcutBypassButton, analyzerEnabledButton;
+    
+    using ButtonAttachement = APVTS::ButtonAttachment;
+    ButtonAttachement lowcutBypassButtonAttachement,
+                      peakBypassButtonAttachement,
+                      highcutBypassButtonAttachement,
+                      analyzerEnabledButtonAttachement;
+    
     std::vector<juce::Component*> getComps();
     
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (SimpleEQAudioProcessorEditor)
