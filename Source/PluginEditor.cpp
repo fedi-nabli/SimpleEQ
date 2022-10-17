@@ -111,7 +111,7 @@ void LookAndFeel::drawToggleButton(juce::Graphics &g,
         
         g.setColour(color);
         
-        auto bounds = toggleButton.getBounds();
+        auto bounds = toggleButton.getLocalBounds();
         g.drawRect(bounds);
         
         auto insetRect = bounds.reduced(4);
