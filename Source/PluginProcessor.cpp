@@ -213,7 +213,7 @@ void SimpleEQAudioProcessor::setStateInformation (const void* data, int sizeInBy
     
     auto tree = juce::ValueTree::readFromData(data, sizeInBytes);
     if (tree.isValid())
-    {
+    {           
         apvts.replaceState(tree);
         updateFilters();
     }
